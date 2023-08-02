@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Appointment Scheduling System**
-
 - 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://aliraza-memon.netlify.app/](https://aliraza-memon.netlify.app/)
