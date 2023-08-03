@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">
-A student pursuing Computer Science studies.</h3>
+A student pursuing Computer Science studies</h3>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
