@@ -5,17 +5,11 @@
 - 🌱 **Full Stack Engineer** with **2 years** of professional experience  
 - ⚙️ Proficient in **MERN Stack** and **Spring Boot**  
 - ⚙️ Hands-on with **Next.js**  
-- 🔬 Currently exploring **LLM** and **OpenAI**-based projects  
-
-- 👨‍💻 View my work and demos at [My Portfolio](https://aliraza-memon.netlify.app/)  
-
-- 📝 Check out my articles on [My Blog](https://aliraza-memon.netlify.app/articles)  
+- 🔬 Currently exploring **LLM** and **OpenAI**-based projects    
 
 - 💬 Ask me about **React.js, Spring Boot,** and working on **AI-driven** solutions  
 
 - 📫 Reach me at **aliraza57.cs@gmail.com**  
-
-- 📄 See my experiences on [About Me](https://aliraza-memon.netlify.app/about)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
