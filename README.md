@@ -11,7 +11,7 @@ Hi there! I’m Ali, a passionate developer with 2+ years of experience in desig
 ---
 
 ## My Expertise
-
+- **Frontend Development:** Creating modern, responsive, and user-friendly interfaces using React.js and Next.js. 
 - **Backend Development:** Building robust and scalable server-side systems with Spring Boot and Node.js.  
 - **AI & Automation:** Integrating OpenAI APIs for content generation, conversational AI, and multilingual processing.  
 - **Real-Time Applications:** Developing WebSocket-based features for multiplayer games and live communication.  
@@ -27,11 +27,11 @@ I believe great technology starts with understanding the *problem* first. My dev
 
 ## Skills
 
-- **Backend:** Node.js (Express.js), Spring Boot, Microservices, RESTful APIs, WebSocket APIs, Firebase Push Notifications, Stripe Integration  
 - **Frontend:** React.js, Next.js, Vue.js, Zustand, Supabase, Redux, Bootstrap, Tailwind CSS, Ant Design, MUI  
+- **Backend:** Node.js (Express.js), Spring Boot, Microservices, RESTful APIs, WebSocket APIs, Firebase Push Notifications, Stripe Integration  
 - **Databases:** MySQL, PostgreSQL, MongoDB, H2  
 - **AI Tools:** OpenAI, Whisper, Prompt Engineering  
-- **Deployment:** AWS EC2, S3, Hostinger (KVM Servers)  
+- **Deployment:** AWS, Hostinger, Docker  
 - **Other Tools:** Git, GitHub, Jira, Bitbucket, Figma  
 
 ---
