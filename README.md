@@ -41,3 +41,20 @@ I believe great technology starts with understanding the *problem* first. My dev
 - [GitHub](https://github.com/Ali-Raza-Memon)
 - **Email:** aliraza.se.dev@gmail.com  
 ---
+
+### 📈 Activity Graph
+[![Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ali-Raza-Memon&theme=github-compact&area=true)](https://github.com/Ali-Raza-Memon)
+
+
+### 🔥 Streak & Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ali-Raza-Memon&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Raza-Memon&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+### 🧭 Profile Summary
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Raza-Memon&theme=github)
+
