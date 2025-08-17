@@ -27,7 +27,7 @@ I believe great technology starts with understanding the *problem* first. My dev
 
 ## Skills
 
-- **Frontend:** React.js, Next.js, Vue.js, Zustand, Supabase, Redux, Bootstrap, Tailwind CSS, Ant Design, MUI  
+- **Frontend:** React.js, Next.js, Vue.js, Zustand, Redux, Bootstrap, Tailwind CSS, Ant Design, MUI  
 - **Backend:** Node.js (Express.js), Spring Boot, Microservices, RESTful APIs, WebSocket APIs, Firebase Push Notifications, Stripe Integration  
 - **Databases:** MySQL, PostgreSQL, MongoDB, H2  
 - **AI Tools:** OpenAI, Whisper, Prompt Engineering  
